@@ -54,10 +54,11 @@
 
 <style>
      .content{
-          background-color: antiquewhite;
-          padding: 1em;
+          background-color: rgb(214, 243, 237);
+          padding: 3em;
           margin-left: 20em;
           margin-right: 20em; 
+          border-radius: 3em;
      }
      ul{
           list-style: none;
@@ -67,7 +68,7 @@
           color: rgb(157, 198, 196);
      }
      form{
-          width: 200px;
+          width: 215px;
           margin: auto;
      }
      .trashBin{
@@ -83,6 +84,7 @@
           color: white;
           border-color: rgb(69, 122, 113);
           padding: 0.5em;
+          font-size: 1.2em;
      }
      .remove{
           height: 1rem;
