@@ -1,3 +1,3 @@
 # My To-do App
 
-This is my to-do app.
+This is my to-do app
