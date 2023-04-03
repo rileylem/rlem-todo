@@ -86,6 +86,9 @@
           padding: 0.5em;
           font-size: 1.2em;
      }
+     button:hover{
+          background-color: rgb(129, 168, 161);
+     }
      .remove{
           height: 1rem;
           width: 1rem;
@@ -104,5 +107,9 @@
      .clearbtn{
           text-align: center;
           padding: 2em 0em 0em 0em;
+     }
+     :global(body){
+          background: url('./images/leafs.png');
+          font-family: monospace;
      }
 </style>

@@ -6,14 +6,14 @@
           text-align: center;
           color: rgb(157, 198, 196);
           margin: 2em 0em 0.5em 0em;
-          font-size: 3.2em;
+          font-size: 4.5em;
      }
      p{
           text-align: center;
-          font-size: 1.3em;
+          font-size: 1.8em;
      }
 </style>
 <h1>My To-Do App</h1>
-<p>Keep Your Life Organized</p>
-<Todo />
+<p>.+｡*ﾟ♡  Keep Your Life Organized  ♡ ﾟ*｡+.</p>
+<Todo /> ┆ 
 
