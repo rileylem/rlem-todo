@@ -112,5 +112,4 @@
           background: url('./images/leafs.png');
           font-family: monospace;
      }
-     
 </style>
